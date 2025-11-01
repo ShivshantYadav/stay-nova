@@ -1,21 +1,9 @@
-# dependencies
 node_modules/
-.pnp
-.pnp.js
-
-# testing
-coverage/
-
-# production
+.cache/
 build/
 dist/
-
-# misc
-.DS_Store
 .env
-.env.local
-.cache/
-.npm/
+.DS_Store
 .vscode/
 .idea/
 *.log
